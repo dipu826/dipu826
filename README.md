@@ -56,6 +56,7 @@
 
 # Featured Projects
 
+  - [Big Data Processing with Hadoop/Spark](https://github.com/dipu826/Big-Data-Processing-with-Hadoop-Spark.git) - Trip classification & clustering using MapReduce.
 # 💬 Let’s Connect
   - 💼 [Linkedin](https://www.linkedin.com/in/dipu-mazumdar/)
   - 📧 Email: dipu988mazumdar@gmail.com
