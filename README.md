@@ -58,6 +58,7 @@
 
   - [Big Data Processing with Hadoop/Spark](https://github.com/dipu826/Big-Data-Processing-with-Hadoop-Spark.git) - Trip classification & clustering using MapReduce.
   - [Social Media Analysis using NLP](https://github.com/dipu826/Social-Media-Analysis-using-NLP.git) - Mapping social sentiment to market impact using NLP and network analysis.
+  - [Cloud Music Subscription Applicatoin - AWS powered](https://github.com/dipu826/Cloud-Music-Subscription-Application---AWS-powered..git) - Developing music subscription app using aws.
 # 💬 Let’s Connect
   - 💼 [Linkedin](https://www.linkedin.com/in/dipu-mazumdar/)
   - 📧 Email: dipu988mazumdar@gmail.com
