@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dipu Mazumdar
 
   🎓 Master of Data Science, RMIT University (2025)  
-  💡 2+ years of experience in Data Science, Analytics, \and AI-driven Forecasting Projects  
+  💡 2+ years of experience in Data Science, Analytics, and AI-driven Forecasting Projects  
   🌏 Based in Melbourne, Australia  
 
 # 🚀 What I do
